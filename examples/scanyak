@@ -1,0 +1,64 @@
+{
+    "sources": [{
+
+
+       "center": 154619000,
+        "rate": 1200000,
+        "ppm": -1,
+        "gain": 20,
+        "analogRecorders": 4,
+        "squelch": -30,
+        "analogLevels": 17,
+        "driver": "osmosdr",
+        "device": "rtl=0"
+
+      }, {
+
+       "center": 155870000,
+        "rate": 960000,
+        "ppm": -1,
+        "gain": 15,
+        "analogRecorders": 4,
+        "squelch": -30,
+        "analogLevels": 20,
+        "driver": "osmosdr",
+        "device": "rtl=1"
+
+
+    }],
+    "systems": [{
+            "type": "conventional",
+            "channels": [
+             154257500,
+             154310000,
+             154430000,
+             155032500,
+             155535000,
+             156000000,
+             156015000,
+             156210000
+
+
+],
+
+           "shortName": "yakima",
+            "talkgroupsFile": "yakima8chan.csv",
+            "talkgroupDisplayFormat": "id_tag",
+            "alphatags": true,
+            "decodeMDC": false,
+            "callLog": true,
+            "audioArchive": false,
+
+            "broadcastifyApiKey": "jvnfddvdvodfzzzzzzzzzzzzzzz",
+            "broadcastifySystemId": "180",
+
+            "apiKey": "ipufvhidviduhvdxxxxxxxxxxx"
+
+ }],
+        "defaultMode": "analog",
+        "frequencyFormat": "mhz",
+
+        "broadcastifyCallsServer": "https://api.broadcastify.com/call-upload",
+
+        "uploadServer": "https://api.openmhz.com"
+}

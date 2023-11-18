@@ -1,0 +1,113 @@
+151250000 - SAFIRE
+155775000 - SAPAGE
+154370000 - SAFG
+155205000 - SAEMS
+155550000 - Sauk City Fire
+155700000 - SASO
+155640000 - SASODATA
+155340000 - EMS-B
+155370000 - POINT
+151280000 - MARC1/MARC2
+154010000 - MARC3
+154130000 - MARC4
+155400000 - EMS-A
+155280000 - EMS-C
+154265000 - IFERN
+153830000 - FG RED
+154295000 - FG BLUE
+154280000 - FG WHITE
+153837500 - FG GOLD
+154287500 - FG GRAY
+154302500 - IFERN2
+154452500 - VTAC12
+156000000 - WEM CAR
+155475000 - VLAW31
+155482500 - VLAW32
+155752500 - VCALL10
+151137500 - VTAC11
+154452500 - VTAC12
+158737500 - VTAC13
+159472500 - VTAC14
+151137500 - VTAC36
+155160000 - NATSAR
+155340000 - VMED28
+155347500 - VMED29
+464850000 - Devils Head Ski Resort - Ski Patrol
+464475000 - Devils Head Ski Resort - Operations
+154235000 - Sauk City Fire - Local
+151430000 - DNR Red
+151145000 - DNR Green G
+151205000 - DNR Yellow G
+151310000 - DNR White G
+151355000 - DNS Blue G
+155070000 - Unknown - used for Cow Chip parade
+
+
+
+
+
+
+
+
+
+
+Dongle 1 (Recorders needed for 100% coverage: 4)
+150.13475		<-- Lowest edge of dongle based on sample rate
+1		151.1375
+1		151.1375
+1		151.20875	<-- Center Frequency For Dongle
+1		151.25
+1		151.28
+152.28275		<-- Highest edge of dongle based on sample rate
+
+
+Dongle 2 (Recorders needed for 100% coverage: 27)
+153.841		<-- Lowest edge of dongle based on sample rate
+2		153.83
+2		153.8375
+2		154.01
+2		154.13
+2		154.265
+2		154.28
+2		154.2875
+2		154.295
+2		154.3025
+2		154.37
+2		154.4525
+2		154.4525
+2		154.915	<-- Center Frequency For Dongle
+2		155.16
+2		155.205
+2		155.28
+2		155.34
+2		155.34
+2		155.3475
+2		155.37
+2		155.4
+2		155.475
+2		155.4825
+2		155.55
+2		155.7
+2		155.7525
+2		155.775
+2		156.00
+155.989		<-- Highest edge of dongle based on sample rate
+
+
+Dongle 3 (Recorders needed for 100% coverage: 2)
+158.031		<-- Lowest edge of dongle based on sample rate
+3		158.7375
+3		159.105	<-- Center Frequency For Dongle
+3		159.4725
+160.179		<-- Highest edge of dongle based on sample rate
+
+
+Dongle 4 (Recorders needed for 100% coverage: 2)
+463.5885		<-- Lowest edge of dongle based on sample rate
+4		464.475
+4		464.6625	<-- Center Frequency For Dongle
+4		464.85
+465.7365		<-- Highest edge of dongle based on sample rate
+
+
+

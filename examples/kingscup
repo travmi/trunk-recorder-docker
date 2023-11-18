@@ -1,0 +1,31 @@
+{
+"sources": [{
+"center": "151276875",
+"rate": "500000",
+"gain": "38",
+"squelch": "-36",
+"ppm": "0",
+"analogRecorders": "4",
+"analogLevels": "7",
+"modulation": "qpsk",
+"driver": "osmosdr",
+"device": "soapy,driver=sdrplay"
+}],
+"systems": [{
+"type": "conventional",
+"talkgroupsFile": "Chanlist.csv",
+"channels": [
+151220000,
+151310000,
+151175000,
+151385000
+],
+"shortName": "RVC",
+"alphaTags": "true"
+}],
+"defaultMode": "analog",
+"captureDir": "/home/pi/trunk-recorder/audio",
+"callTimeout": "3",
+"logFile": "1",
+"frequencyFormat": "hz"
+}
